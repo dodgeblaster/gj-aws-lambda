@@ -16,6 +16,7 @@
     "fs-extra": "^9.0.0"
   },
   "devDependencies": {
-    "gj-aws-iam": "^1.0.1"
+    "gj-aws-iam": "^1.0.1",
+    "jest": "^26.0.1"
   }
 }
